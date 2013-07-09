@@ -10,7 +10,8 @@ preview this site locally.
 
 > Use this workflow when submitting a blog post using standard text or markdown.
 
-Load the [source/_posts] folder, then click the [new file] icon above its listing.  [[show]][new-file]
+Load the [source/_posts] folder, then click the [new file] icon above its listing.
+[[show]][new-file]
 
 [new-file]: http://swindon.hackspace.org.uk/images/help/1-new-file.png
 [commit-file]: http://swindon.hackspace.org.uk/images/help/2-commit-file.png
@@ -34,7 +35,8 @@ Here's a [template] and some [syntax examples].
 
 Use the `Propose New File` button to commit the post (to a new branch in your own [fork]).
 
-The new branch will be compared to this repo. Check the changes and create a [pull request].
+The new branch will be compared to this repo. Check the changes and click the link to
+create a [pull request].
 
 Add a title and any other relevant info or images, then hit
 `Send Pull Request`.  [[show]][send-pull-request]
