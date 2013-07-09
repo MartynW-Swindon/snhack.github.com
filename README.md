@@ -29,10 +29,10 @@ according to the pattern: `YYYY-MM-DD-url-safe-title.md`.  [[show]][commit-file]
 [naming it]: https://github.com/blog/1436-moving-and-renaming-files-on-github
 
 Enter the post metadata and content, formatted using [markdown].
-Here's a [template] and some [syntax examples].
+Here's a [template] and some [examples].
 
 [template]: https://raw.github.com/snhack/snhack.github.com/source/source/_posts/_examples/2012-01-01-template.md
-[syntax examples]: https://github.com/snhack/snhack.github.com/tree/source/source/_posts/_examples
+[examples]: https://github.com/snhack/snhack.github.com/tree/source/source/_posts/_examples
 
 Use the `Propose New File` button to commit the post (to a new branch in your own [fork]).
 
