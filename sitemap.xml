@@ -1,55 +1,55 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://snhack.github.com/blog/resources-for-using-git/</loc>
+        <loc>http://swindon.hackspace.org.uk/blog/resources-for-using-git/</loc>
         <lastmod>2013-07-05T21:56:28+01:00</lastmod>
     </url>
     <url>
-        <loc>http://snhack.github.com/blog/twitter-to-teletype/</loc>
-        <lastmod>2013-07-08T01:02:36+01:00</lastmod>
+        <loc>http://swindon.hackspace.org.uk/blog/twitter-to-teletype/</loc>
+        <lastmod>2013-07-09T22:57:31+01:00</lastmod>
     </url>
     <url>
-        <loc>http://snhack.github.com/blog/first-year-anniversary-meet-up/</loc>
+        <loc>http://swindon.hackspace.org.uk/blog/first-year-anniversary-meet-up/</loc>
         <lastmod>2013-07-05T05:00:45+01:00</lastmod>
     </url>
     <url>
-        <loc>http://snhack.github.com/blog/gyrobot-resurrection/</loc>
-        <lastmod>2013-07-05T23:44:13+01:00</lastmod>
+        <loc>http://swindon.hackspace.org.uk/blog/gyrobot-resurrection/</loc>
+        <lastmod>2013-07-09T22:57:31+01:00</lastmod>
     </url>
     <url>
-        <loc>http://snhack.github.com/blog/weekly-meeting-report/</loc>
-        <lastmod>2013-07-07T02:33:29+01:00</lastmod>
+        <loc>http://swindon.hackspace.org.uk/blog/2013-07-03-weekly-meeting-report/</loc>
+        <lastmod>2013-07-09T23:39:20+01:00</lastmod>
     </url>
     <url>
-        <loc>http://snhack.github.com/about/</loc>
+        <loc>http://swindon.hackspace.org.uk/about/</loc>
+        <lastmod>2013-07-09T22:48:57+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://swindon.hackspace.org.uk/blog/archives/</loc>
+        <lastmod>2013-07-09T23:39:20+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://swindon.hackspace.org.uk/blog/</loc>
+        <lastmod>2013-07-09T23:39:20+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://swindon.hackspace.org.uk/</loc>
+        <lastmod>2013-07-09T23:39:20+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://swindon.hackspace.org.uk/join/</loc>
         <lastmod>2013-07-02T00:52:03+01:00</lastmod>
     </url>
     <url>
-        <loc>http://snhack.github.com/blog/archives/</loc>
-        <lastmod>2013-07-08T01:02:36+01:00</lastmod>
+        <loc>http://swindon.hackspace.org.uk/meetings/</loc>
+        <lastmod>2013-07-09T23:39:20+01:00</lastmod>
     </url>
     <url>
-        <loc>http://snhack.github.com/blog/</loc>
-        <lastmod>2013-07-08T01:02:36+01:00</lastmod>
+        <loc>http://swindon.hackspace.org.uk/projects/</loc>
+        <lastmod>2013-07-09T23:39:20+01:00</lastmod>
     </url>
     <url>
-        <loc>http://snhack.github.com/</loc>
-        <lastmod>2013-07-08T01:02:36+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://snhack.github.com/join/</loc>
-        <lastmod>2013-07-02T00:52:03+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://snhack.github.com/meetings/</loc>
-        <lastmod>2013-07-08T01:02:36+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://snhack.github.com/projects/</loc>
-        <lastmod>2013-07-08T01:02:36+01:00</lastmod>
-    </url>
-    <url>
-        <loc>http://snhack.github.com/robots.txt</loc>
+        <loc>http://swindon.hackspace.org.uk/robots.txt</loc>
         <lastmod>2013-07-02T00:52:03+01:00</lastmod>
     </url>
 </urlset>

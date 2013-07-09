@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: pi | Swindon Hackspace]]></title>
-  <link href="http://snhack.github.com/blog/categories/pi/atom.xml" rel="self"/>
-  <link href="http://snhack.github.com/"/>
-  <updated>2013-07-09T03:17:19+01:00</updated>
-  <id>http://snhack.github.com/</id>
+  <link href="http://swindon.hackspace.org.uk/blog/categories/pi/atom.xml" rel="self"/>
+  <link href="http://swindon.hackspace.org.uk/"/>
+  <updated>2013-07-09T23:41:18+01:00</updated>
+  <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Twitter To Teletype]]></title>
-    <link href="http://snhack.github.com/blog/twitter-to-teletype/"/>
+    <link href="http://swindon.hackspace.org.uk/blog/twitter-to-teletype/"/>
     <updated>2012-11-06T20:06:00+00:00</updated>
-    <id>http://snhack.github.com/blog/twitter-to-teletype</id>
+    <id>http://swindon.hackspace.org.uk/blog/twitter-to-teletype</id>
     <content type="html"><![CDATA[<p><img src="https://github.com/snhack/TwitterToTeletype/wiki/images/Teletype.jpg" alt="Teletype" class="right" /></p>
 
 <p><em>cross posted from <a href="https://github.com/snhack/TwitterToTeletype/wiki">TwitterToTeletype/wiki</a></em></p>

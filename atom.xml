@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Swindon Hackspace]]></title>
-  <link href="http://snhack.github.com/atom.xml" rel="self"/>
-  <link href="http://snhack.github.com/"/>
-  <updated>2013-07-09T03:17:19+01:00</updated>
-  <id>http://snhack.github.com/</id>
+  <link href="http://swindon.hackspace.org.uk/atom.xml" rel="self"/>
+  <link href="http://swindon.hackspace.org.uk/"/>
+  <updated>2013-07-09T23:41:18+01:00</updated>
+  <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
     
@@ -15,27 +15,27 @@
   
   <entry>
     <title type="html"><![CDATA[Meeting Report - 3rd July 2013]]></title>
-    <link href="http://snhack.github.com/blog/weekly-meeting-report/"/>
+    <link href="http://swindon.hackspace.org.uk/blog/2013-07-03-weekly-meeting-report/"/>
     <updated>2013-07-03T00:00:00+01:00</updated>
-    <id>http://snhack.github.com/blog/weekly-meeting-report</id>
-    <content type="html"><![CDATA[<p><img src="http://snhack.github.com/blog/weekly-meeting-report/Hackspace.jpg" alt="Hero" class="right" />
+    <id>http://swindon.hackspace.org.uk/blog/weekly-meeting-report</id>
+    <content type="html"><![CDATA[<p><img src="http://swindon.hackspace.org.uk/blog/2013-07-03-weekly-meeting-report/Hackspace.jpg" alt="Hero" class="right" />
 Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new people who turned up to see what we get up to at our weekly meetings, hope you had an enjoyable evening and we’ll see you again next week. Along with the regulars it made for a pretty full room. After resetting a few trip switches to sort out some power issues the evening got underway with a bit of chat about what we do, complimented by drinks and some biscuits brought in by a couple of our regulars, James and Jess.</p>
 
 <!-- more -->
 
 <p>James and Jess also turned up with some funky little electronic Cube World games, so we all spent a while trying to work out what they do. As far as we managed to work out, each cube contains a little character who you can control and play a simple game with. Clip the cubes together and the characters will move between the cubes and interact with each other. Information on the internet seems sparse, even <a href="http://en.wikipedia.org/wiki/Radica_Games">Wikipedia</a>  doesn’t appear to have a page. There is a <a href="http://service.mattel.com/instruction_sheets/i6063.pdf">manual</a> available for download from the Mattel website and plenty for sale on <a href="http://www.ebay.co.uk/sch/i.html?_nkw=mattel+cube+world+series">ebay</a> if you fancy getting some.</p>
 
-<p><img src="http://snhack.github.com/blog/weekly-meeting-report/CubeWorld.jpg" alt="Cube World Series" /></p>
+<p><img src="http://swindon.hackspace.org.uk/blog/2013-07-03-weekly-meeting-report/CubeWorld.jpg" alt="Cube World Series" /></p>
 
 <p>In the mean-time people rummaged through the selection of 3D printed items Steve had brought in and he chatted with some of the newcomers about 3D printing showing off some of his excellent 3D prints and designs.</p>
 
 <p>Simon brought in the <a href="http://robosavvy.com/store/product_info.php/products_id/1206?osCsid=31b1a0e3c1d9c27c6c802d752bd477c5">robot arm</a> he’d recently bought for the <a href="http://www.museumofcomputing.org.uk/">Swindon Museum of Computing</a> <a href="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed">robots revealed exhibition</a>.  He was having some trouble getting it to work reliably. After a some messing around we discovered that powering the servos from 6V rather than 5V resolved the problem. There is a short video of it in action on <a href="http://www.youtube.com/watch?v=QEHG0bBv5ys">YouTube</a></p>
 
-<p><img src="http://snhack.github.com/blog/weekly-meeting-report/RobotArm.jpg" alt="Robot Arm" /></p>
+<p><img src="http://swindon.hackspace.org.uk/blog/2013-07-03-weekly-meeting-report/RobotArm.jpg" alt="Robot Arm" /></p>
 
 <p>The hackspace has recently been working on getting an old <a href="http://en.wikipedia.org/wiki/HERO_(robot)">Heathkit Hero</a> robot to work (but we’ve not been making much progress recently in all honesty!)  One of the members has 3D printed some replacement parts for the arm and we need to replace some of the wiring inside after it was, er, accidentally shorted out during some testing.  It has been commandeered back into the museum for the robot exhibition so we spent a bit of time refitting its outer panels and reattaching the repaired arm ready for display.</p>
 
-<p><img src="http://snhack.github.com/blog/weekly-meeting-report/Hero2.jpg" alt="Hero" /></p>
+<p><img src="http://swindon.hackspace.org.uk/blog/2013-07-03-weekly-meeting-report/Hero2.jpg" alt="Hero" /></p>
 
 <p>As a few members headed off home leaving the die-hards, James set up the oscilloscope to have a poke around in his Blu-ray player with the hope of doing some hacking on it and we pondered the issues we’ve been having with the internet connection recently.</p>
 
@@ -48,10 +48,10 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
   
   <entry>
     <title type="html"><![CDATA[Gyrobot Resurrection]]></title>
-    <link href="http://snhack.github.com/blog/gyrobot-resurrection/"/>
+    <link href="http://swindon.hackspace.org.uk/blog/gyrobot-resurrection/"/>
     <updated>2013-06-28T00:00:00+01:00</updated>
-    <id>http://snhack.github.com/blog/gyrobot-resurrection</id>
-    <content type="html"><![CDATA[<p><img src="http://snhack.github.com/blog/gyrobot-resurrection/gyrobot.jpg" alt="Gyrobot" class="right" /></p>
+    <id>http://swindon.hackspace.org.uk/blog/gyrobot-resurrection</id>
+    <content type="html"><![CDATA[<p><img src="http://swindon.hackspace.org.uk/blog/gyrobot-resurrection/gyrobot.jpg" alt="Gyrobot" class="right" /></p>
 
 <p>Gyrobot was made available to the <a href="http://www.museum-of-computing.org.uk/" title="http://www.museum-of-computing.org.uk/">Swindon Museum of Computing</a> on Hackspace night; 19th June 2013 for their upcoming <a href="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed" title="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed">Robots Revealed</a> exhibition.</p>
 
@@ -73,9 +73,9 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
   <li>The energy stored in Gyrobot’s 35 kg outer weapon rim when up to full speed (750 RPM) is 40KJoules (Validated by two independent sources). Compare that with current Hypnodisc’s 12KJoules. Energy is even higher when Gyrobot is in full body spin mode.</li>
 </ol>
 
-<p><img src="http://snhack.github.com/blog/gyrobot-resurrection/gyrobot_closer.jpg" alt="Gyrobot_closer" /></p>
+<p><img src="http://swindon.hackspace.org.uk/blog/gyrobot-resurrection/gyrobot_closer.jpg" alt="Gyrobot_closer" /></p>
 
-<p>Either come along to the <a href="http://snhack.github.io/join/" title="http://snhack.github.io/join/">Swindon Hackspace</a> on a Wednesday night or the <a href="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed" title="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed">Robots Revealed</a> exhibition at the <a href="http://www.museum-of-computing.org.uk/" title="http://www.museum-of-computing.org.uk/">Swindon Museum of Computing</a> for the next 6 months to have a closer look, but please - not available to hack, one false move and it bites back hard ;-)</p>
+<p>Either come along to the <a href="http://swindon.hackspace.org.uk/join/" title="http://swindon.hackspace.org.uk/join/">Swindon Hackspace</a> on a Wednesday night or the <a href="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed" title="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed">Robots Revealed</a> exhibition at the <a href="http://www.museum-of-computing.org.uk/" title="http://www.museum-of-computing.org.uk/">Swindon Museum of Computing</a> for the next 6 months to have a closer look, but please - not available to hack, one false move and it bites back hard ;-)</p>
 
 <h2 id="further-gyrobot-information-">Further Gyrobot Information :</h2>
 
@@ -90,10 +90,10 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
   
   <entry>
     <title type="html"><![CDATA[First Year Anniversary Meet Up]]></title>
-    <link href="http://snhack.github.com/blog/first-year-anniversary-meet-up/"/>
+    <link href="http://swindon.hackspace.org.uk/blog/first-year-anniversary-meet-up/"/>
     <updated>2013-06-13T20:06:00+01:00</updated>
-    <id>http://snhack.github.com/blog/first-year-anniversary-meet-up</id>
-    <content type="html"><![CDATA[<p><img src="http://snhack.github.com/blog/first-year-anniversary-meet-up/Sir Daniel Arms.jpg" alt="Sir Daniel Arms" class="right" /></p>
+    <id>http://swindon.hackspace.org.uk/blog/first-year-anniversary-meet-up</id>
+    <content type="html"><![CDATA[<p><img src="http://swindon.hackspace.org.uk/blog/first-year-anniversary-meet-up/Sir Daniel Arms.jpg" alt="Sir Daniel Arms" class="right" /></p>
 
 <p>On June 5th we celebrated our 1st year anniversary. Rather than attend a usual meet we decided to relocate the Hackspace to the more informal surroundings of the <a href="http://swindonhistory.blogspot.co.uk/2011/12/sir-daniel-arms.html" title="http://swindonhistory.blogspot.co.uk/2011/12/sir-daniel-arms.html">Sir Daniel Arms</a> for a bite to eat and some drinks:</p>
 
@@ -110,7 +110,7 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
 
 <p>Those lucky attendees who turned up were rewarded with a hot off the printbed Swindon Hackspace multi-coloured poker chip, worth 1 Gigillion credits, accepted in no respectable establishments worldwide. Even the waitress was curious as to what it was, “a badge of shame” she was told, only surpassed by McDonald’s zero stars:-</p>
 
-<p><img src="http://snhack.github.com/blog/first-year-anniversary-meet-up/3D Prints.jpg" alt="Sneak preview of the new Swindon Hackspace Logo" /></p>
+<p><img src="http://swindon.hackspace.org.uk/blog/first-year-anniversary-meet-up/3D Prints.jpg" alt="Sneak preview of the new Swindon Hackspace Logo" /></p>
 
 <p>Tony showed a collection of prints from his new Replicator 3D printer. Looking forward to seeing some more.</p>
 
@@ -132,9 +132,9 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
   
   <entry>
     <title type="html"><![CDATA[Twitter To Teletype]]></title>
-    <link href="http://snhack.github.com/blog/twitter-to-teletype/"/>
+    <link href="http://swindon.hackspace.org.uk/blog/twitter-to-teletype/"/>
     <updated>2012-11-06T20:06:00+00:00</updated>
-    <id>http://snhack.github.com/blog/twitter-to-teletype</id>
+    <id>http://swindon.hackspace.org.uk/blog/twitter-to-teletype</id>
     <content type="html"><![CDATA[<p><img src="https://github.com/snhack/TwitterToTeletype/wiki/images/Teletype.jpg" alt="Teletype" class="right" /></p>
 
 <p><em>cross posted from <a href="https://github.com/snhack/TwitterToTeletype/wiki">TwitterToTeletype/wiki</a></em></p>
@@ -197,9 +197,9 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
   
   <entry>
     <title type="html"><![CDATA[Resources for Using Git]]></title>
-    <link href="http://snhack.github.com/blog/resources-for-using-git/"/>
+    <link href="http://swindon.hackspace.org.uk/blog/resources-for-using-git/"/>
     <updated>2012-09-29T20:35:00+01:00</updated>
-    <id>http://snhack.github.com/blog/resources-for-using-git</id>
+    <id>http://swindon.hackspace.org.uk/blog/resources-for-using-git</id>
     <content type="html"><![CDATA[<p><em>cross posted from <a href="http://jmeosbn.github.com/blog/resources-for-using-git/">http://jmeosbn.github.com</a></em></p>
 
 <p>Here’s some basic resources to get started pushing code to github.</p>

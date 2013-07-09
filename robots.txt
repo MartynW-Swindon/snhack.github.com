@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://snhack.github.com/sitemap.xml 
+Sitemap: http://swindon.hackspace.org.uk/sitemap.xml 

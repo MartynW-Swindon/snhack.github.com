@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: meetings | Swindon Hackspace]]></title>
-  <link href="http://snhack.github.com/blog/categories/meetings/atom.xml" rel="self"/>
-  <link href="http://snhack.github.com/"/>
-  <updated>2013-07-09T03:17:19+01:00</updated>
-  <id>http://snhack.github.com/</id>
+  <link href="http://swindon.hackspace.org.uk/blog/categories/meetings/atom.xml" rel="self"/>
+  <link href="http://swindon.hackspace.org.uk/"/>
+  <updated>2013-07-09T23:41:18+01:00</updated>
+  <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Meeting Report - 3rd July 2013]]></title>
-    <link href="http://snhack.github.com/blog/weekly-meeting-report/"/>
+    <link href="http://swindon.hackspace.org.uk/blog/2013-07-03-weekly-meeting-report/"/>
     <updated>2013-07-03T00:00:00+01:00</updated>
-    <id>http://snhack.github.com/blog/weekly-meeting-report</id>
+    <id>http://swindon.hackspace.org.uk/blog/weekly-meeting-report</id>
     <content type="html"><![CDATA[<p><img src="blog/categories/meetings/atom.xmlHackspace.jpg" alt="Hero" class="right" />
 Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new people who turned up to see what we get up to at our weekly meetings, hope you had an enjoyable evening and we’ll see you again next week. Along with the regulars it made for a pretty full room. After resetting a few trip switches to sort out some power issues the evening got underway with a bit of chat about what we do, complimented by drinks and some biscuits brought in by a couple of our regulars, James and Jess.</p>
 
@@ -48,9 +48,9 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
   
   <entry>
     <title type="html"><![CDATA[Gyrobot Resurrection]]></title>
-    <link href="http://snhack.github.com/blog/gyrobot-resurrection/"/>
+    <link href="http://swindon.hackspace.org.uk/blog/gyrobot-resurrection/"/>
     <updated>2013-06-28T00:00:00+01:00</updated>
-    <id>http://snhack.github.com/blog/gyrobot-resurrection</id>
+    <id>http://swindon.hackspace.org.uk/blog/gyrobot-resurrection</id>
     <content type="html"><![CDATA[<p><img src="blog/categories/meetings/atom.xmlgyrobot.jpg" alt="Gyrobot" class="right" /></p>
 
 <p>Gyrobot was made available to the <a href="http://www.museum-of-computing.org.uk/" title="http://www.museum-of-computing.org.uk/">Swindon Museum of Computing</a> on Hackspace night; 19th June 2013 for their upcoming <a href="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed" title="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed">Robots Revealed</a> exhibition.</p>
@@ -75,7 +75,7 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
 
 <p><img src="blog/categories/meetings/atom.xmlgyrobot_closer.jpg" alt="Gyrobot_closer" /></p>
 
-<p>Either come along to the <a href="http://snhack.github.io/join/" title="http://snhack.github.io/join/">Swindon Hackspace</a> on a Wednesday night or the <a href="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed" title="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed">Robots Revealed</a> exhibition at the <a href="http://www.museum-of-computing.org.uk/" title="http://www.museum-of-computing.org.uk/">Swindon Museum of Computing</a> for the next 6 months to have a closer look, but please - not available to hack, one false move and it bites back hard ;-)</p>
+<p>Either come along to the <a href="http://swindon.hackspace.org.uk/join/" title="http://swindon.hackspace.org.uk/join/">Swindon Hackspace</a> on a Wednesday night or the <a href="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed" title="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed">Robots Revealed</a> exhibition at the <a href="http://www.museum-of-computing.org.uk/" title="http://www.museum-of-computing.org.uk/">Swindon Museum of Computing</a> for the next 6 months to have a closer look, but please - not available to hack, one false move and it bites back hard ;-)</p>
 
 <h2 id="further-gyrobot-information-">Further Gyrobot Information :</h2>
 
@@ -90,9 +90,9 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
   
   <entry>
     <title type="html"><![CDATA[First Year Anniversary Meet Up]]></title>
-    <link href="http://snhack.github.com/blog/first-year-anniversary-meet-up/"/>
+    <link href="http://swindon.hackspace.org.uk/blog/first-year-anniversary-meet-up/"/>
     <updated>2013-06-13T20:06:00+01:00</updated>
-    <id>http://snhack.github.com/blog/first-year-anniversary-meet-up</id>
+    <id>http://swindon.hackspace.org.uk/blog/first-year-anniversary-meet-up</id>
     <content type="html"><![CDATA[<p><img src="blog/categories/meetings/atom.xmlSir Daniel Arms.jpg" alt="Sir Daniel Arms" class="right" /></p>
 
 <p>On June 5th we celebrated our 1st year anniversary. Rather than attend a usual meet we decided to relocate the Hackspace to the more informal surroundings of the <a href="http://swindonhistory.blogspot.co.uk/2011/12/sir-daniel-arms.html" title="http://swindonhistory.blogspot.co.uk/2011/12/sir-daniel-arms.html">Sir Daniel Arms</a> for a bite to eat and some drinks:</p>
