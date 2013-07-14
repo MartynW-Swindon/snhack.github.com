@@ -4,7 +4,7 @@
   <title><![CDATA[Swindon Hackspace]]></title>
   <link href="http://swindon.hackspace.org.uk/atom.xml" rel="self"/>
   <link href="http://swindon.hackspace.org.uk/"/>
-  <updated>2013-07-11T21:14:14+01:00</updated>
+  <updated>2013-07-14T21:54:05+01:00</updated>
   <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
@@ -42,6 +42,23 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
 <p>All in all a fairly busy and entertaining evening. Sorry if I’ve missed off anything else that people were doing but there way too much going on to see and hear everything.</p>
 
 <p>Rob.</p>
+
+<hr />
+
+<p>layout: nil
+summary: include file for markdown</p>
+
+<p>comment: this yml needed to parse the liquid tags</p>
+
+<p>todo: check that appending this file allows its definitions to be overwritten.</p>
+
+<hr />
+
+<p>Ucase test <a href="{{ site.url }}">Swindon Hackspace</a></p>
+
+<p>Lcase test <a href="{{ site.url }}">swindon hackspace</a></p>
+
+<p>And the <a href="http://git.io/snhack-new-issue">snhack new issue</a> link</p>
 
 ]]></content>
   </entry>
@@ -85,6 +102,23 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
 <iframe width="" height="" src="http://www.youtube.com/embed/KaWaZ5FgJeg " frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 <iframe width="" height="" src="http://www.youtube.com/embed/6dnohbcRkms " frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
+<hr />
+
+<p>layout: nil
+summary: include file for markdown</p>
+
+<p>comment: this yml needed to parse the liquid tags</p>
+
+<p>todo: check that appending this file allows its definitions to be overwritten.</p>
+
+<hr />
+
+<p>Ucase test <a href="{{ site.url }}">Swindon Hackspace</a></p>
+
+<p>Lcase test <a href="{{ site.url }}">swindon hackspace</a></p>
+
+<p>And the <a href="http://git.io/snhack-new-issue">snhack new issue</a> link</p>
+
 ]]></content>
   </entry>
   
@@ -126,6 +160,23 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
 </ul>
 
 <p>Which leads me to signing off this entry with a congratulations to hackspace members on achieving our paper anniversary.</p>
+
+<hr />
+
+<p>layout: nil
+summary: include file for markdown</p>
+
+<p>comment: this yml needed to parse the liquid tags</p>
+
+<p>todo: check that appending this file allows its definitions to be overwritten.</p>
+
+<hr />
+
+<p>Ucase test <a href="{{ site.url }}">Swindon Hackspace</a></p>
+
+<p>Lcase test <a href="{{ site.url }}">swindon hackspace</a></p>
+
+<p>And the <a href="http://git.io/snhack-new-issue">snhack new issue</a> link</p>
 
 ]]></content>
   </entry>
@@ -191,6 +242,23 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
   <li><a href="https://github.com/snhack/TwitterToTeletype">Source Code</a></li>
   <li><a href="http://www.raspberrypi.org/">Raspberry Pi</a></li>
 </ul>
+
+<hr />
+
+<p>layout: nil
+summary: include file for markdown</p>
+
+<p>comment: this yml needed to parse the liquid tags</p>
+
+<p>todo: check that appending this file allows its definitions to be overwritten.</p>
+
+<hr />
+
+<p>Ucase test <a href="{{ site.url }}">Swindon Hackspace</a></p>
+
+<p>Lcase test <a href="{{ site.url }}">swindon hackspace</a></p>
+
+<p>And the <a href="http://git.io/snhack-new-issue">snhack new issue</a> link</p>
 
 ]]></content>
   </entry>
@@ -271,6 +339,23 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
 <h2 id="other-info">other info</h2>
 
 <p>Btw, if you just want to share some code snippets somewhere while maintaining versioning etc., then check out <a href="https://gist.github.com/">gists</a>, a feature of github.</p>
+
+<hr />
+
+<p>layout: nil
+summary: include file for markdown</p>
+
+<p>comment: this yml needed to parse the liquid tags</p>
+
+<p>todo: check that appending this file allows its definitions to be overwritten.</p>
+
+<hr />
+
+<p>Ucase test <a href="{{ site.url }}">Swindon Hackspace</a></p>
+
+<p>Lcase test <a href="{{ site.url }}">swindon hackspace</a></p>
+
+<p>And the <a href="http://git.io/snhack-new-issue">snhack new issue</a> link</p>
 
 ]]></content>
   </entry>
