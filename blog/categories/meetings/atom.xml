@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetings | Swindon Hackspace]]></title>
   <link href="http://swindon.hackspace.org.uk/blog/categories/meetings/atom.xml" rel="self"/>
   <link href="http://swindon.hackspace.org.uk/"/>
-  <updated>2013-07-14T21:54:05+01:00</updated>
+  <updated>2013-07-14T22:25:19+01:00</updated>
   <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
@@ -42,23 +42,6 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
 <p>All in all a fairly busy and entertaining evening. Sorry if I’ve missed off anything else that people were doing but there way too much going on to see and hear everything.</p>
 
 <p>Rob.</p>
-
-<hr />
-
-<p>layout: nil
-summary: include file for markdown</p>
-
-<p>comment: this yml needed to parse the liquid tags</p>
-
-<p>todo: check that appending this file allows its definitions to be overwritten.</p>
-
-<hr />
-
-<p>Ucase test <a href="http://swindon.hackspace.org.uk">Swindon Hackspace</a></p>
-
-<p>Lcase test <a href="http://swindon.hackspace.org.uk">swindon hackspace</a></p>
-
-<p>And the <a href="http://git.io/snhack-new-issue">snhack new issue</a> link</p>
 
 ]]></content>
   </entry>
@@ -102,23 +85,6 @@ summary: include file for markdown</p>
 <p><iframe width="" height="" src="http://www.youtube.com/embed/KaWaZ5FgJeg " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 <iframe width="" height="" src="http://www.youtube.com/embed/6dnohbcRkms " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
 
-<hr />
-
-<p>layout: nil
-summary: include file for markdown</p>
-
-<p>comment: this yml needed to parse the liquid tags</p>
-
-<p>todo: check that appending this file allows its definitions to be overwritten.</p>
-
-<hr />
-
-<p>Ucase test <a href="http://swindon.hackspace.org.uk">Swindon Hackspace</a></p>
-
-<p>Lcase test <a href="http://swindon.hackspace.org.uk">swindon hackspace</a></p>
-
-<p>And the <a href="http://git.io/snhack-new-issue">snhack new issue</a> link</p>
-
 ]]></content>
   </entry>
   
@@ -160,23 +126,6 @@ summary: include file for markdown</p>
 </ul>
 
 <p>Which leads me to signing off this entry with a congratulations to hackspace members on achieving our paper anniversary.</p>
-
-<hr />
-
-<p>layout: nil
-summary: include file for markdown</p>
-
-<p>comment: this yml needed to parse the liquid tags</p>
-
-<p>todo: check that appending this file allows its definitions to be overwritten.</p>
-
-<hr />
-
-<p>Ucase test <a href="http://swindon.hackspace.org.uk">Swindon Hackspace</a></p>
-
-<p>Lcase test <a href="http://swindon.hackspace.org.uk">swindon hackspace</a></p>
-
-<p>And the <a href="http://git.io/snhack-new-issue">snhack new issue</a> link</p>
 
 ]]></content>
   </entry>

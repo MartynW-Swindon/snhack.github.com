@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tty | Swindon Hackspace]]></title>
   <link href="http://swindon.hackspace.org.uk/blog/categories/tty/atom.xml" rel="self"/>
   <link href="http://swindon.hackspace.org.uk/"/>
-  <updated>2013-07-14T21:54:05+01:00</updated>
+  <updated>2013-07-14T22:25:19+01:00</updated>
   <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
@@ -74,23 +74,6 @@
   <li><a href="https://github.com/snhack/TwitterToTeletype">Source Code</a></li>
   <li><a href="http://www.raspberrypi.org/">Raspberry Pi</a></li>
 </ul>
-
-<hr />
-
-<p>layout: nil
-summary: include file for markdown</p>
-
-<p>comment: this yml needed to parse the liquid tags</p>
-
-<p>todo: check that appending this file allows its definitions to be overwritten.</p>
-
-<hr />
-
-<p>Ucase test <a href="http://swindon.hackspace.org.uk">Swindon Hackspace</a></p>
-
-<p>Lcase test <a href="http://swindon.hackspace.org.uk">swindon hackspace</a></p>
-
-<p>And the <a href="http://git.io/snhack-new-issue">snhack new issue</a> link</p>
 
 ]]></content>
   </entry>
