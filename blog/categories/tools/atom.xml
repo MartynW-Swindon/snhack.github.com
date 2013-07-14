@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tools | Swindon Hackspace]]></title>
   <link href="http://swindon.hackspace.org.uk/blog/categories/tools/atom.xml" rel="self"/>
   <link href="http://swindon.hackspace.org.uk/"/>
-  <updated>2013-07-14T22:25:19+01:00</updated>
+  <updated>2013-07-14T22:29:46+01:00</updated>
   <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
@@ -77,7 +77,6 @@ Date:   Sat Sep 29 23:30:20 2012 +0100</p>
 <h2 id="other-info">other info</h2>
 
 <p>Btw, if you just want to share some code snippets somewhere while maintaining versioning etc., then check out <a href="https://gist.github.com/">gists</a>, a feature of github.</p>
-
 ]]></content>
   </entry>
   
