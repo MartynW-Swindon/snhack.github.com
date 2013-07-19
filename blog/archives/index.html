@@ -20,13 +20,13 @@ Jun 28 2013 posted in meetings First Year &hellip;">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://swindon.hackspace.org.uk/blog/archives/">
-
+  <link rel="canonical" href="http://swindon.hackspace.org.uk/blog/archives">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Swindon Hackspace" type="application/atom+xml">
   <script src="/javascripts/modernizr-2.0.js"></script>
-  <script src="/javascripts/ender.js"></script>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/lib/jquery.min.js"%3E%3C/script%3E'))</script>
   <script src="/javascripts/octopress.js" type="text/javascript"></script>
   <!-- Google site verification -->
 <meta name="google-site-verification" content="PubgJ00VUIj1r0qaB3oR0KwXirQKu3XAhBh0YduPdS0" />
@@ -198,7 +198,7 @@ Jun 28 2013 posted in meetings First Year &hellip;">
       </li>
     
       <li class="post">
-        <a href="/blog/twitter-to-teletype/">Twitter To Teletype</a>
+        <a href="/blog/twitter-to-teletype/">Twitter to Teletype</a>
       </li>
     
       <li class="post">
@@ -233,7 +233,7 @@ Jun 28 2013 posted in meetings First Year &hellip;">
   </ul>
   
   <script type="text/javascript">
-    $.domReady(function(){
+    $(document).ready(function(){
         if (!window.jXHR){
             var jxhr = document.createElement('script');
             jxhr.type = 'text/javascript';
@@ -289,7 +289,7 @@ Jun 28 2013 posted in meetings First Year &hellip;">
       var twitterWidgets = document.createElement('script');
       twitterWidgets.type = 'text/javascript';
       twitterWidgets.async = true;
-      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      twitterWidgets.src = '//platform.twitter.com/widgets.js';
       document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
     })();
   </script>
