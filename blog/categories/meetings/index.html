@@ -221,15 +221,29 @@
   <script src="/javascripts/github.js" type="text/javascript"> </script>
 </section>
 
+
 <section>
-
-
   <h1><a href="https://twitter.com/intent/user?screen_name=snhack">Twitter</a></h1>
 
+  
+  <div id="tweets"></div>
 
+  <script type="text/javascript" src="/assets/twitterFetcher_v9_min.js"></script>
 
+  <script>
+    twitterFetcher.fetch("356204429415956482", 'tweets',
+                          3, true,
+                          false,
+                          false, "default",
+                          true);
+  </script>
+  
 
+  
+    <a href="http://twitter.com/snhack" class="twitter-follow-button" data-show-count="false"></a>
+  
 </section>
+
 
   
 </aside>
