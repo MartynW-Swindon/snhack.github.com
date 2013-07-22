@@ -4,7 +4,7 @@
   <title><![CDATA[Category: meetings | Swindon Hackspace]]></title>
   <link href="http://swindon.hackspace.org.uk/blog/categories/meetings/atom.xml" rel="self"/>
   <link href="http://swindon.hackspace.org.uk/"/>
-  <updated>2013-07-21T20:18:36+01:00</updated>
+  <updated>2013-07-22T22:00:44+01:00</updated>
   <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
@@ -74,15 +74,15 @@ Quite a busy night at the Swindon Hackspace tonight. Welcome to the five(!) new 
 
 <p><img src="./gyrobot_closer.jpg" alt="Gyrobot_closer" /></p>
 
-<p>Either come along to the <a href="http://swindon.hackspace.org.uk/join/" title="http://swindon.hackspace.org.uk/join/">Swindon Hackspace</a> on a Wednesday night or the <a href="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed" title="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed">Robots Revealed</a> exhibition at the <a href="http://www.museum-of-computing.org.uk/" title="http://www.museum-of-computing.org.uk/">Swindon Museum of Computing</a> for the next 6 months to have a closer look, but please - not available to hack, one false move and it bites back hard ;-)</p>
+<p>Either come along to the <a href="{{ site.url }}/join/" title="{{ site.url }}/join/">Swindon Hackspace</a> on a Wednesday night or the <a href="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed" title="http://www.museumofcomputing.org.uk/exhibitions/2-current-exhibitions/108-robots-revealed">Robots Revealed</a> exhibition at the <a href="http://www.museum-of-computing.org.uk/" title="http://www.museum-of-computing.org.uk/">Swindon Museum of Computing</a> for the next 6 months to have a closer look, but please - not available to hack, one false move and it bites back hard ;-)</p>
 
 <h2 id="further-gyrobot-information-">Further Gyrobot Information :</h2>
 
 <p>Original Website:
 <a href="http://homepage.ntlworld.com/steve-wood/home.htm" title="http://homepage.ntlworld.com/steve-wood/home.htm">http://homepage.ntlworld.com/steve-wood/home.htm</a></p>
 
-<p><iframe src="http://www.youtube.com/embed/KaWaZ5FgJeg" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-<iframe src="http://www.youtube.com/embed/6dnohbcRkms" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></p>
+<p>{% youtube KaWaZ5FgJeg %}
+{% youtube 6dnohbcRkms %}</p>
 ]]></content>
   </entry>
   
