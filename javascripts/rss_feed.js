@@ -33,22 +33,21 @@ function rss_feed_Linkroll(target) {
     var count = (this.items.length > rss_item_count) ? rss_item_count : this.items.length;
     for (var i = 0; i < count; i++) {
       var item = this.items[i];
-      // Strip email subject prefixes from RSS titles
-      item.title = item.title.replace(/^(Re: \[shs\] )?Re: /, '');
       var str = this.format_item(item);
       lines.push(str);
     }
     document.getElementById(target).innerHTML = lines.join("\n");
   }
   this.cook = function(v) {
-    return v.replace('<', '&lt;').replace('>', '&gt>');
+    return v.replace('<', '&lt;').replace('>', '&gt;');
   }
 
   this.format_item = function(it) {
     var str = "<li class=\"rss_feed-item\">";
-    str += "<a class=\"rss_feed-title\" href=\"" + this.cook(it.link) + "\">" + this.cook(it.title) + "</a>";
+    str += "<a class=\"rss_feed-title\" href=\"" + this.cook(it.link) + "\">" +
+            this.cook(it.title.replace(/^(Re: \[shs\] )?Re: /, '')) + "</a>";
     if (it.description) {
-      str += "<span class=\"rss_feed-description\">" + this.cook(it.description) + "</span>\n";
+      str += "<div class=\"rss_feed-description\">" + this.cook(it.description) + "</div>\n";
     }
     str += "</li>\n";
     return str;
