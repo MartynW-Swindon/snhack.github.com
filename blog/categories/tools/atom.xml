@@ -4,7 +4,7 @@
   <title><![CDATA[Category: tools | Swindon Hackspace]]></title>
   <link href="http://swindon.hackspace.org.uk/blog/categories/tools/atom.xml" rel="self"/>
   <link href="http://swindon.hackspace.org.uk/"/>
-  <updated>2013-08-11T00:53:50+01:00</updated>
+  <updated>2013-08-12T00:50:19+01:00</updated>
   <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
@@ -18,21 +18,19 @@
     <link href="http://swindon.hackspace.org.uk/blog/resources-for-using-git/"/>
     <updated>2012-09-29T20:35:00+01:00</updated>
     <id>http://swindon.hackspace.org.uk/blog/resources-for-using-git</id>
-    <content type="html"><![CDATA[<p><em>cross posted from <a href="http://jmeosbn.github.com/blog/resources-for-using-git/">http://jmeosbn.github.com</a></em></p>
-
-<p>Here’s some basic resources to get started pushing code to github.</p>
+    <content type="html"><![CDATA[<p>Here’s some basic resources to get started pushing code to github.</p>
 
 <p>Note: As well as computer source code, git is useful for tracking changes to anything that can be represented as plain text, e.g. <a href="http://www.wired.com/wiredenterprise/2012/08/bundestag/">German Law</a>.</p>
 
 <p>The simplest use of git is to create the repo locally, stored in the same folder as the source (known as the working tree) and named <code>.git</code>.</p>
+
+<!-- more -->
 
 <p><code>sh Initialise a new git repo http://git-scm.com/docs/git-init git-init
 $ cd my-project
 $ git init
 Initialized empty Git repository in my-project/.git/
 </code></p>
-
-<!-- more -->
 
 <p>Add any new or changed files you want to track, then commit those changes to the repo.</p>
 
@@ -77,6 +75,8 @@ Date:   Sat Sep 29 23:30:20 2012 +0100</p>
 <h2 id="other-info">other info</h2>
 
 <p>Btw, if you just want to share some code snippets somewhere while maintaining versioning etc., then check out <a href="https://gist.github.com/">gists</a>, a feature of github.</p>
+
+<p><em>This article was originally posted at: <a href="http://jmeosbn.github.com/blog/resources-for-using-git/">http://jmeosbn.github.com</a></em></p>
 ]]></content>
   </entry>
   
