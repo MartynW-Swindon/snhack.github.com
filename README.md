@@ -1,8 +1,8 @@
 ## snhack.github.com
 
-__Note:  master branch is overwritten during compilation.__
+_Note:  master branch is overwritten during compilation._
 
-**Super minimal way to add a post**
+__Super minimal way to add a post__
 
 > Use this workflow when submitting a blog post using standard text or markdown.
 > Please see the [INSTALL](INSTALL.md) file for full details on how to build and
