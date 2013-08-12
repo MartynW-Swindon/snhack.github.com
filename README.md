@@ -1,12 +1,14 @@
 ## snhack.github.com
 
-_Note:  master branch is overwritten during compilation._
+__Note:  master branch is overwritten during compilation.__
 
-__Super minimal way to add a post__
+Please see the [INSTALL](INSTALL.md) file for full details on how to build and
+preview this site locally.
+
+
+### Super minimal way to add a post
 
 > Use this workflow when submitting a blog post using standard text or markdown.
-> Please see the [INSTALL](INSTALL.md) file for full details on how to build and
-> preview this site locally.
 
 Load the [source/_posts] folder, then click the [new file] icon above its listing.
 [[show]][new-file]
