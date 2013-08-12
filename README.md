@@ -2,10 +2,11 @@
 
 __Note:  master branch is overwritten during compilation.__
 
-
-### Super minimal way to add a post**
+**Super minimal way to add a post**
 
 > Use this workflow when submitting a blog post using standard text or markdown.
+> Please see the [INSTALL](INSTALL.md) file for full details on how to build and
+> preview this site locally.
 
 Load the [source/_posts] folder, then click the [new file] icon above its listing.
 [[show]][new-file]
