@@ -4,7 +4,7 @@
   <title><![CDATA[Category: pi | Swindon Hackspace]]></title>
   <link href="http://swindon.hackspace.org.uk/blog/categories/pi/atom.xml" rel="self"/>
   <link href="http://swindon.hackspace.org.uk/"/>
-  <updated>2013-08-12T19:21:30+01:00</updated>
+  <updated>2013-08-12T20:56:25+01:00</updated>
   <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
@@ -18,7 +18,7 @@
     <link href="http://swindon.hackspace.org.uk/blog/twitter-to-teletype/"/>
     <updated>2012-11-06T20:06:00+00:00</updated>
     <id>http://swindon.hackspace.org.uk/blog/twitter-to-teletype</id>
-    <content type="html"><![CDATA[<p>The <a href="http://www.museum-of-computing.org.uk/">Museum of Computing</a> in Swindon has a working Teletype and a desire to get it to print out tweets as part of a display in the museum.  Since the <a href="https://groups.google.com/forum/?hl=en&amp;fromgroups=#!forum/swindon-hackspace">Swindon Hackspace</a> is based in the museum it was a perfect project for hackspace members.</p>
+    <content type="html"><![CDATA[<p>The <a href="http://www.museum-of-computing.org.uk/">Museum of Computing</a> in Swindon has a working Teletype and a desire to get it to print out tweets as part of a display in the museum.  Since the <a href="http://swindon.hackspace.org.uk">Swindon Hackspace</a> is based in the museum it was a perfect project for hackspace members.</p>
 
 <p><img src="https://github.com/snhack/TwitterToTeletype/wiki/images/Teletype.jpg" alt="Teletype" /></p>
 
@@ -65,7 +65,7 @@
 <h2 id="more-information">More Information</h2>
 
 <ul>
-  <li><a href="https://groups.google.com/forum/?hl=en&amp;fromgroups=#!forum/swindon-hackspace">Swindon Hackspace</a></li>
+  <li><a href="http://swindon.hackspace.org.uk">Swindon Hackspace</a></li>
   <li><a href="http://www.museum-of-computing.org.uk/">Museum of Computing</a></li>
   <li><a href="http://en.wikipedia.org/wiki/Teletype_Model_33">Model 33 Teletype on Wikipedia</a></li>
   <li><a href="http://en.wikipedia.org/wiki/Current_loop">Current loop on Wikipedia</a></li>
