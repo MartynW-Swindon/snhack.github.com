@@ -4,7 +4,7 @@
   <title><![CDATA[Category: git | Swindon Hackspace]]></title>
   <link href="http://swindon.hackspace.org.uk/blog/categories/git/atom.xml" rel="self"/>
   <link href="http://swindon.hackspace.org.uk/"/>
-  <updated>2013-08-12T21:51:44+01:00</updated>
+  <updated>2013-08-13T19:45:47+01:00</updated>
   <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
@@ -66,11 +66,11 @@ Date:   Sat Sep 29 23:30:20 2012 +0100</p>
 
 <p><a href="http://github.com/">Github</a> offers their own <a href="http://mac.github.com/">Mac</a> and <a href="http://windows.github.com/">Windows</a> GUI clients, which have the advantage of closer integration with some of github’s features, such as organisations and the “Clone in Windows/Mac” button found on each repo on github.</p>
 
-<p><img src="http://mac.github.com/images/promo-screenshot.png" alt="GitHub for Mac" /></p>
+<p><img src="promo-screenshot.png" alt="GitHub for Mac" /></p>
 
 <p>They do lack some more advanced features though so I mostly prefer <a href="http://gitx.laullon.com/">GitX</a> on the Mac, though <a href="http://git-scm.com/downloads/guis">plenty more GUIs</a> exist on various platforms.</p>
 
-<p><img src="http://gitx.laullon.com/commit.png" alt="GitX" /></p>
+<p><img src="commit.png" alt="GitX" /></p>
 
 <h2 id="other-info">other info</h2>
 
