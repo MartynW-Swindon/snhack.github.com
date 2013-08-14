@@ -3,7 +3,7 @@
 Except where otherwise noted, content on this site is licensed under a Creative Commons
 BY-NC-SA 3.0 License, a full copy of which is available at:
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/
+<http://creativecommons.org/licenses/by-nc-sa/3.0/>
 
 This is a human-readable summary of the [Legal Code (the full license)][license].
 
@@ -35,10 +35,10 @@ This is a human-readable summary of the [Legal Code (the full license)][license]
 
 * **Other Rights** - In no way are any of the following rights affected by the license:
 
-  - Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
+    - Your fair dealing or fair use rights, or other applicable copyright exceptions and limitations;
 
-  - The author's moral rights;
+    - The author's moral rights;
 
-  - Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
+    - Rights other persons may have either in the work itself or in how the work is used, such as publicity or privacy rights.
 
 * **Notice** - For any reuse or distribution, you must make clear to others the license terms of this work. The best way to do this is with a link to this web page.
