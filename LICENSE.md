@@ -1,9 +1,12 @@
-### License
+## License
 
 Except where otherwise noted, content on this site is licensed under a Creative Commons
 BY-NC-SA 3.0 License, a full copy of which is available at:
 
 <http://creativecommons.org/licenses/by-nc-sa/3.0/>
+
+
+## Summary
 
 This is a human-readable summary of the [Legal Code (the full license)][license].
 
