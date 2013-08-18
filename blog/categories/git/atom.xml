@@ -4,7 +4,7 @@
   <title><![CDATA[Category: git | Swindon Hackspace]]></title>
   <link href="http://swindon.hackspace.org.uk/blog/categories/git/atom.xml" rel="self"/>
   <link href="http://swindon.hackspace.org.uk/"/>
-  <updated>2013-08-18T00:41:35+01:00</updated>
+  <updated>2013-08-18T01:12:40+01:00</updated>
   <id>http://swindon.hackspace.org.uk/</id>
   <author>
     <name><![CDATA[Swindon Hackspace]]></name>
@@ -26,15 +26,17 @@
 
 <!-- more -->
 
-<p><code>sh Initialise a new git repo http://git-scm.com/docs/git-init git-init
+<p>To <a href="http://git-scm.com/docs/git-init">initialise</a> a new git repo, simply run <code>git-init</code>.</p>
+
+<p><code>sh
 $ cd my-project
 $ git init
 Initialized empty Git repository in my-project/.git/
 </code></p>
 
-<p>Add any new or changed files you want to track, then commit those changes to the repo.</p>
+<p><a href="http://git-scm.com/docs/git-add">Add</a> any new or changed files you want to track, then <a href="http://git-scm.com/docs/git-commit">commit</a> those changes to the repo.</p>
 
-<p><code>sh Add and commit changes http://git-scm.com/docs/git-add git-add
+<p><code>sh
 $ echo About My-Project &gt; README.md
 $ git add . # add all files recursively
 $ git commit -m 'First Commit'
@@ -43,9 +45,9 @@ $ git commit -m 'First Commit'
  create mode 100644 README.md
 </code></p>
 
-<p>View recent commits using <code>git log</code>.</p>
+<p><a href="http://git-scm.com/docs/git-log">View recent commits</a> using <code>git log</code>.</p>
 
-<p>``` sh View recent commits http://git-scm.com/docs/git-log git-log
+<p>``` sh
 $ git log
 commit cdab15f2036b0b8b1c8fbfceab6357c8e56a0d5f
 Author: Jamie Osborne <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#106;&#109;&#101;&#111;&#115;&#098;&#110;&#064;&#121;&#111;&#117;&#114;&#045;&#101;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">&#106;&#109;&#101;&#111;&#115;&#098;&#110;&#064;&#121;&#111;&#117;&#114;&#045;&#101;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;</a>
