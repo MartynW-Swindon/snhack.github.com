@@ -39,9 +39,7 @@ Use the `Propose New File` button to commit the post (to a new branch in your ow
 The new branch will be compared to this repo. Check the changes and click the [pull request] link.  [(show)][branch-compare]
 
 Add a title and any other relevant info or images, then hit
-`Send Pull Request`. 
-
-![Send Pull Request](send-pull-request.png)
+`Send Pull Request`.  [(show)][send-pull-request]
 
 [post metadata]: http://octopress.org/docs/blogging
 [markdown basics]: http://daringfireball.net/projects/markdown/basics
