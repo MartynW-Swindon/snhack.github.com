@@ -8,7 +8,7 @@ details on how to build and preview the entire site locally.
 
 ### Super minimal way to add a post
 
-> Use this workflow when submitting a blog post using standard text or markdown.
+_Use this workflow when submitting a blog post using standard text or markdown._
 
 Load the [source/_posts] folder, then click the [new file] icon above its listing.
 [(show)][new-file]
@@ -39,7 +39,9 @@ Use the `Propose New File` button to commit the post (to a new branch in your ow
 The new branch will be compared to this repo. Check the changes and click the [pull request] link.  [(show)][branch-compare]
 
 Add a title and any other relevant info or images, then hit
-`Send Pull Request`.  [(show)][send-pull-request]
+`Send Pull Request`. 
+
+![Send Pull Request](send-pull-request.png)
 
 [post metadata]: http://octopress.org/docs/blogging
 [markdown basics]: http://daringfireball.net/projects/markdown/basics
